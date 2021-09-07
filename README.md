@@ -4,4 +4,4 @@ Used Json and Time Libraries
 I have saved 30 different products 
 And the products are of different categories which are easily available at general stores
 Had great fun while doing this project 
-Intership Project At Elite Technical Group
+Internship Project At Elite Technical Group
